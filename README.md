@@ -24,14 +24,13 @@ Following sections are divided as follows :
 This directory consists of 2 files :
 * ```Report/G7_Presentation.pptx``` : File containing presentation that was delivered during final project work presentation.
 * ```Report/G7_Report.pdf``` : This consist of pdf version of report created in latex format describing work performed in the project. Last page of report consist of plagarism report.
-* ```Report/G7_Report.zip``` : a zipped folder containing files required to generate latex report.
 
 ### Datasets
 We have used two datasets for this project work :
 
 * [Kaggle Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19_Radiography_Dataset) : It is a publically available chest x-ray image dataset in which total 14000 chest x-ray images belongs to four different classes i.e. COVID-19 Lung Opacity, Normal and Viral pneumonia. But for our case we have taken 2000 images belonging to two classes i.e. COVID-19 and Normal for training and 400 images for testing.
 
-* [Own prepared dataset](Datasets/dataset2.zip) : We have taken COVID-19 diagnosed chest x-ray images from GitHub and Normal chest x-ray images data from Kaggle and by merging these two we prepared another dataset. Here there are 340 chest x-ray images in total which further split as 220 for training and 120 for testing.
+* [Own prepared dataset2](https://drive.google.com/drive/folders/1WXzJGDVeBItkC7ebT8vQTJ9slPs5X0NN?usp=sharing) : We have taken COVID-19 diagnosed chest x-ray images from GitHub and Normal chest x-ray images data from Kaggle and by merging these two we prepared another dataset. Here there are 340 chest x-ray images in total which further split as 220 for training and 120 for testing.
 
 > Radiography dataset is of 745MB and hence is not submitted/uploaded here. Kindly use [link](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database?select=COVID-19_Radiography_Dataset) to visit it.
 
