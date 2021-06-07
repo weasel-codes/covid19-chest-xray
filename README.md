@@ -61,11 +61,11 @@ Python packages you need to install. The list of libraries that we have used her
 
 * [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py) - Library for creating static, animated, and interactive visualizations.
 
-* [Cdlib](https://cdlib.readthedocs.io/en/latest/) : CDlib is a Python software package that allows to extract, compare and evaluate communities from complex networks.
-
-* [Networkx](https://networkx.org/documentation/stable/tutorial.html) : NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-
 * [Random](https://docs.python.org/3/library/random.html#module-random) : This module implements pseudo-random number generators for various distributions. For integers, there is uniform selection from a range. For sequences, there is uniform selection of a random element, a function to generate a random permutation of a list in-place, and a function for random sampling without replacement.
+
+* [Tensorflow](https://www.tensorflow.org/tutorials) : Tensorflow is an end to end open source libraries for creating ML/DL models.
+
+* [OS](https://docs.python.org/3/library/os.html) : This module provides a portable way of using operating system dependent functionality.
 
 ## HOW TO Run Code Files?
 * Upload file any of the ipynb file on Google-colab. 
